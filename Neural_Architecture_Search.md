@@ -7,7 +7,7 @@ layout: default
 
 ## **Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition. [ICCV'21].** [paper](https://arxiv.org/abs/2102.01063) [code](https://github.com/idstcv/ZenNAS)
 
-![Octocat](./pictures/nas.png)
+![nas](./pictures/nas.png)
 
 Zen-NAS is a lightning fast, training-free Neural Architecture Searching (NAS) algorithm for automatically designing deep neural networks with high prediction accuracy and high inference speed on GPU and mobile device.
 
@@ -15,7 +15,7 @@ Zen-NAS is a lightning fast, training-free Neural Architecture Searching (NAS) a
 
 Zen-NAS is able to search over 1 million networks within 12 GPU hours, achieving SOTA ImageNet-1k performance and outperforming training-based NAS methods. 
 
-![Octocat](./pictures/nas_speed.png)
+![nas_speed](./pictures/nas_speed.png)
 
 ### _Applications._ 
 
