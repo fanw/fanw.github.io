@@ -5,7 +5,7 @@ layout: default
 # Neural Architecture Search
 
 
-## **Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition. [ICCV'21].** [paper](https://arxiv.org/abs/2102.01063) [code](https://github.com/idstcv/ZenNAS)
+## **Zen-NAS: A Zero-Shot NAS for High-Performance Deep Image Recognition. [ICCV'21].** [paper](https://arxiv.org/abs/2102.01063) [code](https://github.com/idstcv/ZenNAS) [presentation](https://www.youtube.com/watch?v=9hRC8YtzOSI)
 
 ![nas](./pictures/nas.png)
 

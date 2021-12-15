@@ -26,7 +26,7 @@ Self-attention is powerful in modeling long-range dependencies, but it is weak i
 ## **2. Applying Transformers to Vision Applications**
 
 
-### _TransReID: Transformer-based Object Re-Identification.[ICCV'21]_ [pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf) [code](https://github.com/damo-cv/TransReID) 
+### _TransReID: Transformer-based Object Re-Identification.[ICCV'21]_ [pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf), [code](https://github.com/damo-cv/TransReID), [presentation (in Chinese)](https://damo.alibaba.com/download/?id=tY2x8irYoEXM5Q)
 
 *   The first pure Transformer-based ReID method;
 *   State-of-the-art performance on 6 person and vehicle ReID benchmarks.
