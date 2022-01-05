@@ -8,4 +8,4 @@ layout: default
 # [Publications](./publication.html)
 
 
-# Contact Info
+# [Contact Us](./contact.html)
